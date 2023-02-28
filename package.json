@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "the purpose of this application is to help me understand about the express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkipngenokoech/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser":"*",
+    "express": "*",
+    "pug":"*",
+    "nodemailer":"*"
+  },
+  "bugs": {
+    "url": "https://github.com/kkipngenokoech/express/issues"
+  },
+  "homepage": "https://github.com/kkipngenokoech/express#readme"
+}
